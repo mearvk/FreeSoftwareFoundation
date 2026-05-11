@@ -17,3 +17,5 @@ Royals Then to Decide
 https://github.com/mearvk/Ubuntu.44D.Orange.Democratus
 
 https://github.com/mearvk/Java.Web.Server.Telnet.Front.Java.21
+
+https://www.congress.gov/bill/119th-congress/house-concurrent-resolution/14/text
