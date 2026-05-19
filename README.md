@@ -21,3 +21,5 @@ https://github.com/mearvk/Java.Web.Server.Telnet.Front.Java.21
 https://www.congress.gov/bill/119th-congress/house-concurrent-resolution/14/text
 
 https://github.com/mearvk/Ubuntu.44D.Orange.Democratus/blob/main/mirvktnbuntu/images/MEARVKBUNTU.cpp
+
+![Profile views](https://views.igorkowalczyk.dev/api/badge/@mearvk?style=flat)
